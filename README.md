@@ -22,7 +22,7 @@ The corresponding x values are the x-intercepts of the graph, while a, b, and c 
 
 Write a C++ program called `quadratic.cpp` that solves the quadratic equation for the x‘s:
 
-![Quadratic formula](./image/formula.png)
+![Quadratic formula](./image/formula.PNG)
 
 ## Technologies
 
